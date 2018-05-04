@@ -1,0 +1,19 @@
+{
+    "tasks":[
+        {
+            "id": 1,
+            "name": "React JS",
+            "status": true
+        },
+        {
+            "id": 2,
+            "name": "Redux",
+            "status": false
+        },
+        {
+            "id": 3,
+            "name": "JSX",
+            "status": true
+        }
+    ]
+}
